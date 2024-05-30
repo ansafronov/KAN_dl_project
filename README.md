@@ -14,4 +14,8 @@ Size of LAN:
 
 For a LAN with width $N$, depth $L$, and grid point number $G$, the number of parameters is $N^2L + NLG$ where $N^2L$ is the number of parameters for weight matrices and $NLG$ is the number of parameters for spline activations.
 
+About realisation:
+
+You can see our implementation of a LAN Layer (LAN activation function) in LAN_Layer.ipynb. For splines, we use KAN_spline.py from pykan library. Usage is simple: after Linear layer, you Use LAN-Layer TODO
+
 
