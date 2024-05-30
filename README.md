@@ -16,6 +16,6 @@ For a LAN with width $N$, depth $L$, and grid point number $G$, the number of pa
 
 About realisation:
 
-You can see our implementation of a LAN Layer (LAN activation function) in LAN_Layer.ipynb. For splines, we use KAN_spline.py from pykan library. Usage is simple: after Linear layer, you Use LAN-Layer TODO
+You can see our implementation of a LAN Layer (LAN activation function) in `LAN_layer.ipynb`. For splines, we use `KAN_spline.py` from `pykan` library. Usage is simple: after Linear layer, you Use LAN-Layer TODO
 
 
